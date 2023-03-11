@@ -1,70 +1,123 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+<!-- ----------------------------------------------------------------------HEADING -->
+<pre><h1 align="center">heart ♥ is home</h1></pre>
+<pre><h4 align="center">an application for productivity<br />a hub for personal growth</h4></pre>
+<hr />  
 
-### `npm start`
+<h3 style="letter-spacing: 3px;">PURPOSE</h3>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<hr />
+to-do app.
+<hr />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<!-- ------------------------------------------------------------------------HEADING -->
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- ----------------------------------------------------------------------DIRECTORY -->
+<hr />
+    <h3 style="letter-spacing: 3px;">DIRECTORY</h3>
+<hr />
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- --------------------------------------------------------------------------------- -->
+<div>
+<div style="display: inline-block; text-align: left; width:49%;">
+FIGMA</div>
+<div style="display: inline-block; text-align: right; width:50%;">
+wireframe | prototype</div>
+</div>
+pending release
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- --------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------- -->
+<div>
+<div style="display: inline-block; text-align: left; width:49%;">
+NOTION</div>
+<div style="display: inline-block; text-align: right; width:50%;">
+development manual</div>
+</div>
 
-### `npm run eject`
+pending release
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<!-- --------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------- -->
+<div>
+<div style="display: inline-block; text-align: left; width:49%;">
+<strike>BACKEND</strike></div>
+<div style="display: inline-block; text-align: right; width:50%;">
+API | data</div>
+</div>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+currently under development
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<!-- --------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------- -->
+<div>
+<div style="display: inline-block; text-align: left; width:49%;">
+FRONTEND</div>
+<div style="display: inline-block; text-align: right; width:50%;">
+user interface</div>
+</div>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+https://github.com/KimberlyRosaly/projectzero
 
-## Learn More
+<!-- --------------------------------------------------------------------------------- -->
+<hr />
+<!-- --------------------------------------------------------------------------------- -->
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<!-- ----------------------------------------------------------------------DIRECTORY -->
+<hr />
+<h1 align="center">
+FRONTEND
+<br />
+▼
+</h1>
+<hr />
+<hr />
+<h3 style="letter-spacing: 3px;">
+LANGUAGES
+</h3>
+<h4 style="letter-spacing: 3px;">
+JavaScript | HTML | CSS
+</h4>
+<h3 style="letter-spacing: 3px;">
+<br />
+LIBRARIES
+</h3>
+React.js : https://reactjs.org/
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<hr />
 
-### Code Splitting
+<hr />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+<h3 style="letter-spacing: 3px;">INSTALLATION INSTRUCTIONS</h3>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<hr />
 
-### Advanced Configuration
+(1) clone repository down to machine ```git clone https://github.com/KimberlyRosaly/projectzero.git```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+(2) ```yarn start``` to start up development server
 
-### Deployment
+(3) ```http://localhost:3000``` navigate to URL inside browser for initialization
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<div align="center">
+<hr />
 
-### `npm run build` fails to minify
+application bootstrapped with ```create-react-app```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```yarn``` is the package manager of choice, here
+
+<hr />
+</div>
+
+
+
+
+
+<!-- Beautiful text => https://www.fancytextconverter.com/ -->
