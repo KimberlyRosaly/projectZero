@@ -5,65 +5,38 @@
 <pre><h1 align="center">heart ♥ is home</h1></pre>
 <pre><h4 align="center">an application for productivity<br />a hub for personal growth</h4></pre>
 <hr />  
-
-<h3 style="letter-spacing: 3px;">PURPOSE</h3>
-
+<!-- ----------------------------------------------------------------------PURPOSE -->
+<h2 style="letter-spacing: 3px;" align="right" >
+PURPOSE</h2>
 <hr />
 to-do app.
 <hr />
-
-
-
-
-<!-- ------------------------------------------------------------------------HEADING -->
+<!-- ------------------------------------------------------------------------------- -->
 
 <!-- ----------------------------------------------------------------------DIRECTORY -->
 <hr />
-    <h3 style="letter-spacing: 3px;">DIRECTORY</h3>
+<h2 style="letter-spacing: 3px;" align="right" >
+DIRECTORY</h2>
 <hr />
-
 <!-- --------------------------------------------------------------------------------- -->
-<div>
-<div style="display: inline-block; text-align: left; width:49%;">
-FIGMA</div>
-<div style="display: inline-block; text-align: right; width:50%;">
-wireframe | prototype</div>
-</div>
-pending release
 
 <!-- --------------------------------------------------------------------------------- -->
 <!-- --------------------------------------------------------------------------------- -->
 <div>
-<div style="display: inline-block; text-align: left; width:49%;">
-NOTION</div>
-<div style="display: inline-block; text-align: right; width:50%;">
-development manual</div>
+
+| DEMO | |
+| --- | --- | 
+| Netlify | coming soon! |
+
+|PROTOTYPE| |
+| --- | --- | 
+| Figma Figjam | coming soon! |
+
+|FRONTEND| |
+| --- | --- | 
+| user interface | https://github.com/KimberlyRosaly/projectzero |
+
 </div>
-
-pending release
-
-<!-- --------------------------------------------------------------------------------- -->
-<!-- --------------------------------------------------------------------------------- -->
-<div>
-<div style="display: inline-block; text-align: left; width:49%;">
-<strike>BACKEND</strike></div>
-<div style="display: inline-block; text-align: right; width:50%;">
-API | data</div>
-</div>
-
-currently under development
-
-<!-- --------------------------------------------------------------------------------- -->
-<!-- --------------------------------------------------------------------------------- -->
-<div>
-<div style="display: inline-block; text-align: left; width:49%;">
-FRONTEND</div>
-<div style="display: inline-block; text-align: right; width:50%;">
-user interface</div>
-</div>
-
-https://github.com/KimberlyRosaly/projectzero
-
 <!-- --------------------------------------------------------------------------------- -->
 <hr />
 <!-- --------------------------------------------------------------------------------- -->
@@ -71,32 +44,28 @@ https://github.com/KimberlyRosaly/projectzero
 <!-- ----------------------------------------------------------------------DIRECTORY -->
 <hr />
 <h1 align="center">
-FRONTEND
-<br />
-▼
-</h1>
-<hr />
-<hr />
+FRONTEND<br />▼</h1>
+<hr /><hr />
 <h3 style="letter-spacing: 3px;">
-LANGUAGES
-</h3>
+LANGUAGES</h3>
 <h4 style="letter-spacing: 3px;">
 JavaScript | HTML | CSS
 </h4>
-<h3 style="letter-spacing: 3px;">
-<br />
-LIBRARIES
-</h3>
+<h3 style="letter-spacing: 3px;"><br />
+LIBRARIES</h3>
 React.js : https://reactjs.org/
+<h3 style="letter-spacing: 3px;"><br />
+APPLICATION BOOTSTRAPPER</h3>
+create-react-app
+<h3 style="letter-spacing: 3px;"><br />
+PACKAGE MANAGER</h3>
+Yarn
+<hr /><hr />
 
-<hr />
-
-<hr />
 
 
 
-
-<h3 style="letter-spacing: 3px;">INSTALLATION INSTRUCTIONS</h3>
+<h3 style="letter-spacing: 3px;" align="right">INSTALLATION INSTRUCTIONS</h3>
 
 <hr />
 
@@ -106,13 +75,8 @@ React.js : https://reactjs.org/
 
 (3) ```http://localhost:3000``` navigate to URL inside browser for initialization
 
-<div align="center">
+<div>
 <hr />
-
-application bootstrapped with ```create-react-app```
-
-```yarn``` is the package manager of choice, here
-
 <hr />
 </div>
 
