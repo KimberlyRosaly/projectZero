@@ -9,7 +9,7 @@
 <h2 style="letter-spacing: 3px;" align="right" >
 PURPOSE</h2>
 <hr />
-to-do app.
+to-do application
 <hr />
 <!-- ------------------------------------------------------------------------------- -->
 
