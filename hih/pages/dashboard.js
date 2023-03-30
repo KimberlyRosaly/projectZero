@@ -1,10 +1,12 @@
+import MyButton from "../src/components/MyButton"
 /* ==========================================
 DASHBOARD
 ==========================================*/
 export default function Dashboard() {
     return (
         <div>
-          DASHBOARD ✏️
+          <div>DASHBOARD ✏️</div>
+          <MyButton />          
         </div>
         )
 }
