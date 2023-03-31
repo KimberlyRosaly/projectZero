@@ -1,16 +1,11 @@
-import Link from 'next/link'
 /* ==========================================
-ROOT PAGE
+ROOT PAGE - '/'
 ==========================================*/
 function HomePage() {
   return (
   <div>
     <div>HEART ♥ IS HOME</div>
-    <div>
-      <Link href="">Hello. Let's go-go-go somewhere!</Link>
-    <br/>
-      <Link href="dashboard">Hello. Let's go-go-go '/dashboard'!</Link>
-    </div>
+    <div></div>
     
   </div>
   )
