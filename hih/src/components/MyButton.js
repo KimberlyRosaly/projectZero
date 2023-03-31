@@ -1,12 +1,12 @@
 import Link from 'next/link'
 /* ==========================================
-ROOT PAGE
+REUSABLE  B U T T O N  | PROPS PASSED IN FROM PARENT COMPONENT
 ==========================================*/
-function MyButton() {
+function MyButton(props) {
   return (
-    <div>
-      <Link href="dashboard">B U T T O N to user clickies</Link>
-    </div>
+      <button>
+        <Link href={props.targetURL}>{props.displayText}</Link>
+      </button>
   )
 }
 export default MyButton
