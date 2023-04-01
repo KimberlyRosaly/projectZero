@@ -28,6 +28,10 @@ DIRECTORY</h2>
 | --- | --- | 
 | Netlify | coming soon! |
 
+| DEVELOPMENT | MANUAL |
+| --- | --- | 
+| Notion | https://kim-rosaly.notion.site/HiH-35049267054a419cad5e0a7dff8a78d9 |
+
 |PROTOTYPE| |
 | --- | --- | 
 | Figma Figjam | coming soon! |
